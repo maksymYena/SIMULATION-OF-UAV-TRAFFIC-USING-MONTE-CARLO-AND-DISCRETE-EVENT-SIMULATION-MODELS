@@ -21,3 +21,14 @@ Attachments:
 БПЛА 0 перенаправлений з A до B (щільність: 0.9 -> 0.2)
 БПЛА 1 перенаправлений з A до B (щільність: 0.9 -> 0.2)
 БПЛА 2 перенаправлений з A до B (щільність: 0.9 -> 0.2)
+
+
+![image](https://github.com/user-attachments/assets/d54c1e35-feb5-4af4-9949-02b01e6d5d6b)
+
+
+![image](https://github.com/user-attachments/assets/e3f42747-9941-4795-9036-b308b26c2ec2)
+
+Simulation Results:
+                   Total Reroutes  Total Time  ...  Avg Arrival Time  Avg Wait Time
+With Rerouting                 14  184.143611  ...               0.0     723.333333
+Without Rerouting               0  180.000000  ...               0.0     597.692308
