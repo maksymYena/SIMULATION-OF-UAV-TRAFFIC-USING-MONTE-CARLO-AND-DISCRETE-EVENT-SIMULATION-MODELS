@@ -13,3 +13,11 @@ Results: Integration of redirection algorithms and adaptive simulation methods i
 Conclusions: The proposed algorithm and the resulting simulation for urban mobility management demonstrated the ability to improve traffic flows, reduce the risk of collisions and increase overall road safety. The experimental results confirmed the effectiveness of the use of redirection algorithms and simulation methods.
 
 Keywords: UAV traffic simulation, urban air mobility, Monte Carlo method, discrete-event modeling, airspace management, flow analysis, dynamic control.
+
+Attachments:
+
+![image](https://github.com/user-attachments/assets/977144ee-c506-4337-8fd3-ba9c4d2d8605)
+
+БПЛА 0 перенаправлений з A до B (щільність: 0.9 -> 0.2)
+БПЛА 1 перенаправлений з A до B (щільність: 0.9 -> 0.2)
+БПЛА 2 перенаправлений з A до B (щільність: 0.9 -> 0.2)
