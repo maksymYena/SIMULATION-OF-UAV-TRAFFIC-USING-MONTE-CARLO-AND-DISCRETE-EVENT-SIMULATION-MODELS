@@ -10,6 +10,12 @@ To develop, implement, and evaluate a unique simulation model for UAV traffic ma
 
 ---
 
+## **Article**
+
+https://dndivsovt.com/index.php/ts/article/view/542
+
+---
+
 ## **Tasks**  
 - Develop a new multi-layer model of spatial constraints for urban airspace.  
 - Create an innovative adaptive redirection algorithm based on real data (distance, speed, route), taking into account random influences.  
